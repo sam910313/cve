@@ -1,5 +1,5 @@
 # cve
-gatherong cve
+gathering cve
 
 https://github.com/0xEhab/FreePBX-CVE-2025-57819-RCE
 
