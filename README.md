@@ -15,6 +15,6 @@ https://github.com/jonathan-corbin/CVE-2025-69212-Authenticated-RCE-PoC/blob/mas
 
 https://github.com/0xh7ml/CVE-2026-27626-PoC/blob/main/CVE-2026.27626.py
 
-https://github.com/tohib09/CVE-2025-69212-PoC/blob/main/README.md
+https://github.com/BridgerAlderson/CVE-2025-69212-PoC
 
 https://cina666.github.io/2025/08/15/%E5%8F%8D%E5%BC%B9shell%E5%8D%87%E7%BA%A7%E4%B8%BA%E5%AE%8C%E5%85%A8%E4%BA%A4%E4%BA%92%E5%BC%8Fshell/
